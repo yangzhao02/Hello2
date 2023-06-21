@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"local"<<end;
+	cout<<"remote"<<end;
 	return 0;
 }
